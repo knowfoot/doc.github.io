@@ -1,2 +1,0 @@
-# doc.github.io
-doc
