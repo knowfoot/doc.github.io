@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["Knowfoot数字花园","gardenEntry"],"noteIcon":"","created":"2024-01-13T18:37:28.670+08:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["Knowfoot数字花园","gardenEntry","gardenEntry"],"noteIcon":"","created":"2024-01-13T18:37:28.670+08:00"}
 ---
 
 3这是Knowfoot毛坯房的数字花园首页
